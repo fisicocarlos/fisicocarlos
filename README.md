@@ -49,4 +49,4 @@
 ### 📫 Get in Touch
 
 - 🌐 [LinkedIn](www.linkedin.com/in/carlos-ramon-santonja)
-- ✉️ [carlos.ramon.santonja@gmail.com.com](mailto:carlos.ramon.santonja@gmail.com)
+- ✉️ [carlos.ramon.santonja@gmail.com](mailto:carlos.ramon.santonja@gmail.com)
