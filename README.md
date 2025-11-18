@@ -3,12 +3,12 @@
 ### 🧠 About Me
 
 - 🎓 **Physicist** with a solid foundation in mathematics and a strong interest in programming.
-- 🧩 Experienced **Data Engineer**, specializing in **large-scale data processing** and **distributed systems**.
+- 🧩 **Data Engineer** specializing in **large-scale data processing** and **distributed systems**. Continously learning and improving my skills. 
 - ⚡ I design and maintain **data pipelines** using **Python** and **Scala** with **Apache Spark** on **Hadoop HDFS**, handling both batch and streaming workloads.
 - 🛠 For **data ingestion and messaging**, I rely on **Apache Kafka**, while storing and querying data in **Kudu** and other relational databases like **TeraData** and **PostgreSQL**.
 - 🐚 Automate workflows, monitoring, and system tasks with **Bash scripting** and other command-line tools.
 - 🐧 Passionate about **Linux**, **open-source software**, and building solutions using free and community-driven tools.
-- 🏃‍♂️ Outside of work, I enjoy trail running races, which help me stay disciplined and focused.
+- 🏃‍♂️ Outside of work, I like to stay active. I enjoy trail running and playing the saxophone.
 
 
 #### Programming Languages
